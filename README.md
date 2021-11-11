@@ -14,4 +14,5 @@ Technologies:
 6)React Frontend
 7)Functional Components,Effects,Hooks
 8)CSS Grid
+9)AWS Beanstalk
 
