@@ -1,10 +1,10 @@
-package io.javaspringboot.ipl_dashboard;
+package com.springbootdashboard.dashboard;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class IplDashboardApplicationTests {
+class DashboardApplicationTests {
 
 	@Test
 	void contextLoads() {

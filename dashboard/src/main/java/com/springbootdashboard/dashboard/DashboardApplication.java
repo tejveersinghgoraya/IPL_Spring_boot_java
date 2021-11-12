@@ -1,13 +1,13 @@
-package io.javaspringboot.ipl_dashboard;
+package com.springbootdashboard.dashboard;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class IplDashboardApplication {
+public class DashboardApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(IplDashboardApplication.class, args);
+		SpringApplication.run(DashboardApplication.class, args);
 	}
 
 }
